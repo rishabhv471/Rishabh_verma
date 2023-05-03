@@ -11,7 +11,7 @@
 <p align="left">
   <a href="https://twitter.com/rishabh56834212" target="blank"
     ><img
-      src="https://img.shields.io/twitter/follow/0xpankaj?logo=twitter&style=for-the-badge"
+      src="https://img.shields.io/twitter/follow/rishabhv471?logo=twitter&style=for-the-badge"
       alt="rishabh"
   /></a>
 </p>
