@@ -1,13 +1,14 @@
 # Hi Enthusiasts 👋, I am Rishabh Verma 👨‍🎓
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="animated" />
-</p>
-<p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=rishabhv471&label=Profile%20views&color=0e75b6&style=flat"
     alt="rishabhv471"
   />
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="animated" />
+</p>
+<p align="left">
+
 <p align="left">
   <a href="https://twitter.com/rishabh56834212" target="blank"
     ><img
@@ -27,7 +28,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://linkedin.com/in/14pankajkumar" target="blank"
+  <a href="https://linkedin.com/mwlite/in/rishabh-verma-0811" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
